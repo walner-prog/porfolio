@@ -1,0 +1,381 @@
+
+<section id="blog" class="blog-mf sect-pt4 route">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="title-box text-center">
+            <h3 class="title-a">
+              Blog
+            </h3>
+            <p class="subtitle-a">
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+            </p>
+            <div class="line-mf"></div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="blog-single.html"><img src="img/post-1.jpg" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">Viajes</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="blog-single.html">Ver más ideas sobre Viajes</a></h3>
+              <p class="card-description">
+                Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Praesent sapien massa, convallis
+                a pellentesque nec,
+                egestas non nisi.
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Morgan Freeman</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 10 min
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Repite el mismo formato para los siguientes posts del blog -->
+      </div>
+    </div>
+
+
+  </section>
+
+    <!-- Preguntas frecuentes -->
+  <section>
+      <div class="container">
+  <div class="accordion-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="h2-heading">Preguntas frecuentes</h2>
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+        <div class="row">
+            <div class="col-lg-12">
+  
+                <div class="accordion" id="accordionExample">
+                  
+                    <div class="card accordion-card">
+                        <div class="card-header" id="headingOne">
+                            <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                ¿Cómo puedo contactarte y obtener rápidamente un presupuesto para mi proyecto en línea?
+                            </button>
+                        </div>
+                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                            <div class="card-body">
+                                La mejor manera de contactarme es a través del formulario de contacto o enviándome un mensaje en mis cuentas de redes sociales especialmente en whatsapp . Para obtener un presupuesto rápido, asegúrate de proporcionar muchos detalles sobre tu proyecto.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card accordion-card">
+                        <div class="card-header" id="headingTwo">
+                            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                ¿Creas diseños desde cero o utilizas temas predefinidos?
+                            </button>
+                        </div>
+                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                            <div class="card-body">
+                                Creo diseños personalizados desde cero para cada proyecto. Mi enfoque es brindar soluciones únicas y adaptadas a las necesidades específicas de cada cliente.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="card accordion-card">
+                        <div class="card-header" id="headingThree">
+                            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                ¿Recibiré algún mantenimiento o garantía incluidos después de la entrega del proyecto?
+                            </button>
+                        </div>
+                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                            <div class="card-body">
+                                Sí, después de la entrega del proyecto, proporciono servicios de mantenimiento y garantía para asegurar el rendimiento continuo y abordar cualquier problema que pueda surgir.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="card accordion-card">
+                        <div class="card-header" id="headingFour">
+                            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                ¿Si algo sale mal con el proyecto, puedo recuperar mi dinero?
+                            </button>
+                        </div>
+                        <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+                            <div class="card-body">
+                                Mi objetivo es garantizar la satisfacción del cliente. Si algo no cumple con tus expectativas, trabajaremos juntos para encontrar soluciones. La política de reembolso dependerá de la situación específica.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="card accordion-card">
+                        <div class="card-header" id="headingFive">
+                            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                ¿Cuál es tu método de pago preferido y necesitas un anticipo?
+                            </button>
+                        </div>
+                        <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+                            <div class="card-body">
+                                Puedes realizar el pago de nuestros servicios de dos maneras:
+                                <ul>
+                                    <li><strong>Pago con Tarjeta:</strong> Aceptamos pagos seguros mediante tarjeta de crédito o débito.</li>
+                                    <li><strong>Pago en Efectivo:</strong> También puedes optar por el pago en efectivo.</li>
+                                </ul>
+                                Para obtener un presupuesto rápido, asegúrate de proporcionar muchos detalles sobre tu proyecto.
+                            </div>
+                        </div>
+                    </div>
+  
+                   
+                      <!-- Pregunta 11 -->
+                      <div class="card accordion-card">
+                          <div class="card-header" id="headingEleven">
+                              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+                                  ¿Qué servicios ofreces como desarrollador web?
+                              </button>
+                          </div>
+                          <div id="collapseEleven" class="collapse" aria-labelledby="headingEleven" data-parent="#accordionExample">
+                              <div class="card-body">
+                                  Como desarrollador web, ofrezco una amplia gama de servicios que incluyen diseño y desarrollo de sitios web, desarrollo de aplicaciones web, optimización de sitios existentes, mantenimiento y actualizaciones, integración de sistemas de gestión de contenido (CMS), y más.
+                              </div>
+                          </div>
+                      </div>
+                      <!-- Pregunta 12 -->
+                      <div class="card accordion-card">
+                          <div class="card-header" id="headingTwelve">
+                              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
+                                  ¿Qué tecnologías y lenguajes de programación utilizas en tu trabajo?
+                              </button>
+                          </div>
+                          <div id="collapseTwelve" class="collapse" aria-labelledby="headingTwelve" data-parent="#accordionExample">
+                              <div class="card-body">
+                                  Utilizo una variedad de tecnologías y lenguajes de programación, incluyendo HTML, CSS, JavaScript, PHP, frameworks como Laravel y React.js, bases de datos SQL y NoSQL, y herramientas de control de versiones como Git.
+                              </div>
+                          </div>
+                      </div>
+                      <!-- Pregunta 13 -->
+                      <div class="card accordion-card">
+                          <div class="card-header" id="headingThirteen">
+                              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
+                                  ¿Ofreces servicios de mantenimiento y actualización para los sitios web que desarrollas?
+                              </button>
+                          </div>
+                          <div id="collapseThirteen" class="collapse" aria-labelledby="headingThirteen" data-parent="#accordionExample">
+                              <div class="card-body">
+                                  Sí, ofrezco servicios de mantenimiento y actualización para garantizar que los sitios web permanezcan seguros, actualizados y funcionales a lo largo del tiempo. Esto incluye la corrección de errores, actualizaciones de contenido y mejoras de seguridad.
+                              </div>
+                          </div>
+                      </div>
+                      <!-- Pregunta 14 -->
+                      <div class="card accordion-card">
+                          <div class="card-header" id="headingFourteen">
+                              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
+                                  ¿Cómo garantizas la seguridad de los sitios web y las aplicaciones que desarrollas?
+                              </button>
+                          </div>
+                          <div id="collapseFourteen" class="collapse" aria-labelledby="headingFourteen" data-parent="#accordionExample">
+                              <div class="card-body">
+                                  Implemento prácticas de seguridad sólidas, como la validación de datos, el cifrado de contraseñas, la protección contra ataques de inyección SQL y XSS, y el uso de HTTPS. Además, mantengo los sistemas y bibliotecas actualizados para mitigar posibles vulnerabilidades.
+                              </div>
+                          </div>
+                      </div>
+                      <!-- Pregunta 15 -->
+                      <div class="card accordion-card">
+                          <div class="card-header" id="headingFifteen">
+                              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
+                                  ¿Ofreces servicios de optimización de velocidad y rendimiento para sitios web existentes?
+                              </button>
+                          </div>
+                          <div id="collapseFifteen" class="collapse" aria-labelledby="headingFifteen" data-parent="#accordionExample">
+                              <div class="card-body">
+                                  Sí, puedo analizar y optimizar el rendimiento de los sitios web existentes, lo que incluye la optimización del código, la compresión de recursos, el almacenamiento en caché y otras técnicas para mejorar la velocidad de carga y la experiencia del usuario.
+                              </div>
+                          </div>
+                      </div>
+                      <!-- Pregunta 16 -->
+                      <div class="card accordion-card">
+                          <div class="card-header" id="headingSixteen">
+                              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseSixteen" aria-expanded="false" aria-controls="collapseSixteen">
+                                  ¿Cuál es tu proceso de trabajo y cómo se estructuran los proyectos?
+                              </button>
+                          </div>
+                          <div id="collapseSixteen" class="collapse" aria-labelledby="headingSixteen" data-parent="#accordionExample">
+                              <div class="card-body">
+                                  Mi proceso de trabajo comienza con una fase de descubrimiento, donde identifico los requisitos del proyecto y establezco objetivos claros. Luego, paso a la fase de diseño y desarrollo, donde creo y refinó el producto final en estrecha colaboración con el cliente. Finalmente, proporciono soporte continuo y mantenimiento según sea necesario después del lanzamiento del proyecto.
+                              </div>
+                          </div>
+                      </div>
+                      <!-- Pregunta 17 -->
+                      <div class="card accordion-card">
+                          <div class="card-header" id="headingSeventeen">
+                              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseSeventeen" aria-expanded="false" aria-controls="collapseSeventeen">
+                                  ¿Qué servicios de seguridad y protección de datos ofreces en tus proyectos?
+                              </button>
+                          </div>
+                          <div id="collapseSeventeen" class="collapse" aria-labelledby="headingSeventeen" data-parent="#accordionExample">
+                              <div class="card-body">
+                                  Me comprometo a proteger la seguridad y privacidad de los datos del cliente en todos los proyectos. Utilizo prácticas de seguridad sólidas y protocolos de cifrado para garantizar que la información confidencial esté segura y protegida.
+                              </div>
+                          </div>
+                      </div>
+                      <!-- Pregunta 18 -->
+                      <div class="card accordion-card">
+                          <div class="card-header" id="headingEighteen">
+                              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseEighteen" aria-expanded="false" aria-controls="collapseEighteen">
+                                  ¿Tienes experiencia en el desarrollo de aplicaciones móviles?
+                              </button>
+                          </div>
+                          <div id="collapseEighteen" class="collapse" aria-labelledby="headingEighteen" data-parent="#accordionExample">
+                              <div class="card-body">
+                                  Sí, tengo experiencia en el desarrollo de aplicaciones móviles tanto para iOS como para Android. Puedo crear aplicaciones personalizadas que se ajusten a tus necesidades específicas y requisitos de negocio.
+                              </div>
+                          </div>
+                      </div>
+                      <!-- Pregunta 19 -->
+                      <div class="card accordion-card">
+                          <div class="card-header" id="headingNineteen">
+                              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseNineteen" aria-expanded="false" aria-controls="collapseNineteen">
+                                  ¿Ofreces soporte técnico después de completar un proyecto?
+                              </button>
+                          </div>
+                          <div id="collapseNineteen" class="collapse" aria-labelledby="headingNineteen" data-parent="#accordionExample">
+                              <div class="card-body">
+                                  Sí, proporciono soporte técnico continuo después de completar un proyecto para ayudarte con cualquier problema técnico o pregunta que puedas tener. Estoy comprometido a garantizar que tu proyecto funcione sin problemas a largo plazo.
+                              </div>
+                          </div>
+                      </div>
+                    
+                    
+                </div> <!-- end of accordion -->
+  
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of container -->
+  </div> 
+      </div>
+  </section><!-- end of accordion-1 -->
+<!-- end of questions -->
+
+
+
+ <section class="paralax-mf footer-paralax bg-image sect-mt4 route" style="background-image: url(img/overlay-bg.jpg)">
+    <div class="overlay-mf"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="contact-mf">
+            <div id="contact" class="box-shadow-full">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="title-box-2">
+                    <h5 class="title-left">
+                      Envíanos un mensaje
+                    </h5>
+                  </div>
+                  <div>
+                      <form action="" method="post" role="form" class="contactForm">
+                      <div id="sendmessage">¡Tu mensaje ha sido enviado. ¡Gracias!</div>
+                      <div id="errormessage"></div>
+                      <div class="row">
+                        <div class="col-md-12 mb-3">
+                          <div class="form-group">
+                            <input type="text" name="name" class="form-control" id="name" placeholder="Tu Nombre" data-rule="minlen:4" data-msg="Por favor ingresa al menos 4 caracteres" />
+                            <div class="validation"></div>
+                          </div>
+                        </div>
+                        <div class="col-md-12 mb-3">
+                          <div class="form-group">
+                            <input type="email" class="form-control" name="email" id="email" placeholder="Tu Email" data-rule="email" data-msg="Por favor ingresa un email válido" />
+                            <div class="validation"></div>
+                          </div>
+                        </div>
+                        <div class="col-md-12 mb-3">
+                            <div class="form-group">
+                              <input type="text" class="form-control" name="subject" id="subject" placeholder="Asunto" data-rule="minlen:4" data-msg="Por favor ingresa al menos 8 caracteres para el asunto" />
+                              <div class="validation"></div>
+                            </div>
+                        </div>
+                        <div class="col-md-12 mb-3">
+                          <div class="form-group">
+                            <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Por favor escribe algo para nosotros" placeholder="Mensaje"></textarea>
+                            <div class="validation"></div>
+                          </div>
+                        </div>
+                        <div class="col-md-12">
+                          <button type="submit" class="button button-a button-big button-rouded">Enviar Mensaje</button>
+                        </div>
+                      </div>
+                    </form>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="title-box-2 pt-4 pt-md-0">
+                    <h5 class="title-left">
+                      Ponte en contacto
+                    </h5>
+                  </div>
+                  <div class="more-info">
+                    <p class="lead">
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
+                      expedita aperiam aliquid at.
+                      Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
+                      mollitia inventore?
+                    </p>
+                    <ul class="list-ico">
+                      <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
+                      <li><span class="ion-ios-telephone"></span> (617) 557-0089</li>
+                      <li><span class="ion-email"></span> contact@example.com</li>
+                    </ul>
+                  </div>
+                  <div class="socials">
+                    <ul>
+                      <li><a href=""><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
+                      <li><a href=""><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
+                      <li><a href=""><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
+                      <li><a href=""><span class="ico-circle"><i class="ion-social-pinterest"></i></span></a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="copyright-box">
+              <p class="copyright">&copy; Derechos de autor <strong>DevFolio</strong>. Todos los derechos reservados</p>
+              <div class="credits">
+                <!--
+                  Todos los enlaces en el pie de página deben permanecer intactos.
+                  Puedes eliminar los enlaces solo si compraste la versión pro.
+                  Información de licencia: https://bootstrapmade.com/license/
+                  Compra la versión pro con formulario de contacto PHP/AJAX funcionando: https://bootstrapmade.com/buy/?theme=DevFolio
+                -->
+                Diseñado por <a href="https://bootstrapmade.com/">BootstrapMade</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </section>
+  
+
+  #03c0fe
+
+  #3FDEFA
